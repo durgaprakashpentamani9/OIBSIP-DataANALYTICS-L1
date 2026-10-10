@@ -1,0 +1,5 @@
+Cluster,Customers,Recency_days,Frequency_invoices,Monetary_observed,Average_purchase_value,Customer_share_pct,Profile,Marketing_action
+0,897,22.79,1.92,486.06,281.49,20.68,Lower-spend or occasional customers,Use low-cost segmented recommendations and onboarding; reserve broad discounts for tested offers.
+1,1174,65.29,4.19,1822.98,566.38,27.06,Frequent customers with repeat-purchase potential,Use replenishment reminders and bundles; test ways to grow basket value without discounting every order.
+2,1549,192.27,1.35,360.55,290.76,35.71,"Less recent, infrequent customers",Run a win-back message with a relevant product reminder; cap incentives and monitor response.
+3,718,12.21,13.64,8011.89,618.28,16.55,"Recent, frequent, high-spend customers","Reward loyalty with early access, VIP service, and carefully tested cross-sell offers."

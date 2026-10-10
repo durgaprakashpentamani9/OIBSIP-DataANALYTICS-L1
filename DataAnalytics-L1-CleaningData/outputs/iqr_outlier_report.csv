@@ -1,0 +1,6 @@
+column,Q1,Q3,IQR,lower_fence,upper_fence,outlier_count,outlier_pct_of_nonmissing,minimum,maximum,treatment
+price,69.0,175.0,106.0,-90.0,334.0,2972,6.08,0.0,10000.0,Retain; IQR flags are not proof of invalid data.
+minimum_nights,1.0,5.0,4.0,-5.0,11.0,6607,13.51,1.0,1250.0,Retain; IQR flags are not proof of invalid data.
+number_of_reviews,1.0,24.0,23.0,-33.5,58.5,6021,12.31,0.0,629.0,Retain; IQR flags are not proof of invalid data.
+reviews_per_month,0.19,2.02,1.83,-2.555,4.765000000000001,1793,4.62,0.01,58.5,Retain; IQR flags are not proof of invalid data.
+calculated_host_listings_count,1.0,2.0,1.0,-0.5,3.5,7081,14.48,1.0,327.0,Retain; IQR flags are not proof of invalid data.
